@@ -1,24 +1,31 @@
-﻿# [flash](https://github.com/sochub/flash)
-[![sites](SoC/qitas.png)](http://www.qitas.cn)
-#### 父级：[image](https://github.com/sochub/image)
-#### 归属：[SDK](https://github.com/sochub/SDK)
+﻿# [STM32F401](https://github.com/SoCXin/STM32F401)
 
-## [简介](https://github.com/sochub/flash/wiki)
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-flash工具，用于系统文件下载烧录
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[ST](https://www.st.com/)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M4](https://github.com/SoCXin/CM4)
+#### [Level](https://github.com/SoCXin/Level) ：84MHz * 1.25 DMIPS/MHz（285CoreMark）
+### [STM32F401简介](https://github.com/SoCXin/STM32F401/wiki)
 
-### [资源组成](https://github.com/sochub/flash)
+[STM32F401](https://github.com/SoCXin/STM32F401) 系列产品基于Cortex®-M4内核
 
-* [DiskImager](DiskImager/)
-* [EasyFlash](https://github.com/armink/EasyFlash)
-* [STC Flash](https://github.com/grigorig/stcgal)
+[![sites](docs/STM32F401.jpg)](https://www.st.com/zh/microcontrollers-microprocessors/STM32F401.html)
+
+### 关键特性
+
+* 3路USART，速度高达10.5 Mbit/s
+* 2.4MSPS的12位ADC
+* USB 2.0 OTG
+* SDIO
+### [收录资源](https://github.com/SoCXin/STM32F401)
+
+* [参考文档](docs/)
+* [参考资源](src/)
+
+### [选型建议](https://github.com/SoCXin/STM32F401)
+
+[STM32F401](https://github.com/SoCXin/STM32F401)
+###  [SoC芯平台](http://www.SoC.Xin)
 
 
-### [SDK](https://github.com/sochub/SDK)
 
-* [编译工具](https://github.com/sochub/compiler)
-* [检视工具](https://github.com/sochub/lint)
-* [调试工具](https://github.com/sochub/debug)
-* [下载工具](https://github.com/sochub/image)
-
-##  [SoC资源平台](http://www.qitas.cn)
