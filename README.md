@@ -9,7 +9,7 @@
 
 [STM32F401](https://github.com/SoCXin/STM32F401) 系列产品基于Cortex®-M4内核
 
-[![sites](docs/STM32F401.jpg)](https://www.st.com/zh/microcontrollers-microprocessors/STM32F401.html)
+[![sites](docs/STM32F401.PNG)](https://www.st.com/zh/microcontrollers-microprocessors/STM32F401.html)
 
 ### 关键特性
 
