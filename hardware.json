@@ -1,11 +1,15 @@
 {
     "type":"MCU",
     "name":"STM32F401",
-    "package":["TSSOP20","QFN20"],
-    "QFN20": {
-        "name":"STM32F401",
+    "package":["UFBGA100","LQFP100","LQFP64","WLCSP49","UFQFN48"],
+    "LQFP64": {
+        "name":"STM32F401R",
         "peripheral": ["ADC","TIM","UART1","UART2","I2C","SPI","PWM"],
         "GPIO":18
     },
-    "version":"1.0.0"
+    "UFQFN48": {
+        "name":"STM32F401C",
+        "peripheral": ["ADC","TIM","UART1","UART2","I2C","SPI","PWM"],
+        "GPIO":18
+    }
 }
